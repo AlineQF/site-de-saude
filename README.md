@@ -23,7 +23,7 @@ A página contém as seguintes seções:
 
 Você pode acessar o site diretamente pelo GitHub Pages (assim que publicado):
 
-👉 [https://seu-usuario.github.io/nome-do-repositorio](https://seu-usuario.github.io/nome-do-repositorio)
+👉 [(https://alineqf.github.io/site-de-saude/)]
 
 
 ## 👩‍💻 Como rodar localmente
