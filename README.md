@@ -32,7 +32,7 @@ Se quiser ver o projeto no seu navegador:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/AlineQF/site-de-saude.git/)
+   git clone [(https://github.com/AlineQF/site-de-saude.git/)]
 
 2. Acesse a pasta do projeto: CD SITE-DE-SAUDE
 3. Abra o arquivo saude.html com seu navegador (ou clique duas vezes sobre ele).
